@@ -1,0 +1,1 @@
+sonar.apex.coverage.reportPath=./tests/apex/coverage/coverage.json
